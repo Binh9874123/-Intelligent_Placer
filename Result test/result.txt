@@ -1,0 +1,12 @@
+./Input/10True.jpg , Result Algoritm : True ,Result in name : True ,Otvet : True  
+ ./Input/11false.jpg , Result Algoritm : False ,Result in name : False ,Otvet : True  
+ ./Input/1false.jpg , Result Algoritm : False ,Result in name : False ,Otvet : True  
+ ./Input/2True.jpg , Result Algoritm : True ,Result in name : True ,Otvet : True  
+ ./Input/3false.jpg , Result Algoritm : False ,Result in name : False ,Otvet : True  
+ ./Input/4false.jpg , Result Algoritm : False ,Result in name : False ,Otvet : True  
+ ./Input/5false.jpg , Result Algoritm : False ,Result in name : False ,Otvet : True  
+ ./Input/6True.jpg , Result Algoritm : True ,Result in name : True ,Otvet : True  
+ ./Input/7True.jpg , Result Algoritm : True ,Result in name : True ,Otvet : True  
+ ./Input/8True.jpg , Result Algoritm : True ,Result in name : True ,Otvet : True  
+ ./Input/9false.jpg , Result Algoritm : False ,Result in name : False ,Otvet : True  
+ 
