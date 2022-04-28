@@ -5,7 +5,7 @@ Signal processing and interpretation
 Intelligent Placer” оформлен в виде python-библиотеки intelligent_placer_lib, которая поставляется каталогом intelligent_placer_lib с файлом intelligent_placer.py, содержащим функцию - точку входа
 def checkImage(strPathToImg):
 которая возвращает True если предметы могут влезть в многоугольник, иначе False.
-Мы будем 
+
 
 
 ### Требование 
