@@ -65,4 +65,4 @@ ___
 
 #### Матрица ошибок
 
-![plot](./cf_matrix.png)
+![plot](./bieudo.png)
