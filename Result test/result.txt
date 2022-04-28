@@ -1,0 +1,23 @@
+
+ .\Input\10True.jpg , Result Algoritm : True ,Result in name : True ,Otvet : True  
+ .\Input\11false.jpg , Result Algoritm : False ,Result in name : False ,Otvet : True  
+ .\Input\12false.jpg , Result Algoritm : False ,Result in name : False ,Otvet : True  
+ .\Input\13True.jpg , Result Algoritm : True ,Result in name : True ,Otvet : True  
+ .\Input\14True.jpg , Result Algoritm : True ,Result in name : True ,Otvet : True  
+ .\Input\15True.jpg , Result Algoritm : True ,Result in name : True ,Otvet : True  
+ .\Input\16True.jpg , Result Algoritm : True ,Result in name : True ,Otvet : True  
+ .\Input\17false.jpg , Result Algoritm : False ,Result in name : False ,Otvet : True  
+ .\Input\18false.jpg , Result Algoritm : False ,Result in name : False ,Otvet : True  
+ .\Input\19True.jpg , Result Algoritm : True ,Result in name : True ,Otvet : True  
+ .\Input\1false.jpg , Result Algoritm : False ,Result in name : False ,Otvet : True  
+ .\Input\20True.jpg , Result Algoritm : True ,Result in name : True ,Otvet : True  
+ .\Input\21false.jpg , Result Algoritm : False ,Result in name : False ,Otvet : True  
+ .\Input\2True.jpg , Result Algoritm : True ,Result in name : True ,Otvet : True  
+ .\Input\3false.jpg , Result Algoritm : False ,Result in name : False ,Otvet : True  
+ .\Input\4false.jpg , Result Algoritm : False ,Result in name : False ,Otvet : True  
+ .\Input\5False.jpg , Result Algoritm : False ,Result in name : True ,Otvet : False  
+ .\Input\6True.jpg , Result Algoritm : True ,Result in name : True ,Otvet : True  
+ .\Input\7True.jpg , Result Algoritm : True ,Result in name : True ,Otvet : True  
+ .\Input\8True.jpg , Result Algoritm : True ,Result in name : True ,Otvet : True  
+ .\Input\9false.jpg , Result Algoritm : False ,Result in name : False ,Otvet : True  
+ 
